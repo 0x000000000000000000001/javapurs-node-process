@@ -1,0 +1,12 @@
+package:
+  name: node-process
+  dependencies:
+    - effect
+    - foreign-object
+    - foreign
+    - maybe
+    - node-event-emitter
+    - node-streams
+    - posix-types
+    - prelude
+    - unsafe-coerce
